@@ -1,0 +1,25 @@
+{
+    "Products" : [
+    {
+      "id": "p1",
+      "name": "Yoga Class",
+      "durationMinutes": 60,
+      "price": "20",
+      "paymentFinalization": "before"
+    },
+    {
+      "id": "p2",
+      "name": "Meditation Session",
+      "durationMinutes": 30,
+      "price": "15",
+      "paymentFinalization": "after"
+    },
+    {
+      "id": "p3",
+      "name": "Personal Training",
+      "durationMinutes": 45,
+      "price": "50",
+      "paymentFinalization": "before"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+
+{ 
+    "paymentMethods": ["card", "paypal", "bank-transfer"],
+    "paymentFinalizations": ["before", "after"],
+    "locations": ["online", "in-person"]
+}

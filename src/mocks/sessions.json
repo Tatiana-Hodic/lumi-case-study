@@ -1,0 +1,52 @@
+{
+    "sessions" : [
+    {
+      "id": "s1",
+      "clientId": "c1",
+      "productId": "p1",
+      "name": "Morning Yoga with Alice",
+      "date": "2024-06-20T09:00:00Z",
+  
+      "durationMinutes": 60,
+      "price": "20",
+      "paymentFinalization": "before",
+  
+      "discount": "10",
+      "paymentMethod": "card",
+      "location": "online",
+      "generateInvoice": true
+    },
+    {
+      "id": "s2",
+      "clientId": "c2",
+      "productId": "p2",
+      "name": "Meditation with Bob",
+      "date": "2024-06-21T10:00:00Z",
+  
+      "durationMinutes": 30,
+      "price": "15",
+      "paymentFinalization": "after",
+  
+      "discount": "15",
+      "paymentMethod": "paypal",
+      "location": "in-person",
+      "generateInvoice": false
+    },
+    {
+      "id": "s3",
+      "clientId": "c3",
+      "productId": "p3",
+      "name": "Training Session with Charlie",
+      "date": "2024-06-22T11:00:00Z",
+  
+      "durationMinutes": 45,
+      "price": "50",
+      "paymentFinalization": "before",
+  
+     " discount": "0",
+     " paymentMethod": "bank-transfer",
+     " location": "online",
+     " generateInvoice": true
+    }
+  ]
+}
